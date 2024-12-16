@@ -2,9 +2,9 @@
 restaurant.py
 '''
 
-from Team.invoice import Invoice
-from Team.order import Order
-from Team.product import Product
+from invoice import Invoice
+from order import Order
+from product import Product
 
 __author__ = "8367998, Thalheim, 7077348, Pasichnyk"
 
